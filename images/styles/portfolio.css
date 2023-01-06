@@ -16,6 +16,19 @@
     height: 64px;
     border-radius: 5px;
     background: #FD6E0A;
+    position: flex;
+}
+.button-secondary{
+    font-weight: 700;
+font-size: 20px;
+text-align:center;
+color: #FD6E0A;
+border: 1px solid #FD6E0A;
+border-radius: 5px;
+height: 64px;
+padding:18px 25px ;
+position: flex;
+background:#FFFFFF;
 }
 .header{
     background: #FFF8F3;
